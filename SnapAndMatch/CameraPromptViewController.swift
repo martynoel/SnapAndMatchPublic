@@ -25,10 +25,6 @@ class CameraPromptViewController: UIViewController, UIImagePickerControllerDeleg
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        self.navigationItem.titleView = UIImageView(image: #imageLiteral(resourceName: "navBarLogo"))
-//        navigationController?.navigationItem.title = "Snap & Match"
-//        navigationController?.navigationBar.topItem?.title = "Back"
-        
         view.backgroundColor = .white
         
         setUpView()
