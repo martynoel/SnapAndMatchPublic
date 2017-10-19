@@ -1,6 +1,10 @@
 # Snap & Match
 *A color-savvy, UO-loving personal stylist for your phone.*
 
+![pic](http://asianbarbie.com/wp-content/uploads/2017/08/matchingComplimentary.gif)
+
+- [Blog writeup](http://asianbarbie.com/snap-and-match/)
+
 ### Note: This repo is meant to be viewed only and cannot run on a device because the backend code is not included due to propreitary restrictions. 
 
 ## Team
