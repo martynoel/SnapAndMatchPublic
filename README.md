@@ -1,7 +1,7 @@
 # Snap & Match
 *A color-savvy, UO-loving personal stylist for your phone.*
 
-### Note: This repo is meant to be viewed only and cannot run on a device because there is the backend code is proprietary, and therefore is not included. ### 
+### Note: This repo is meant to be viewed only and cannot run on a device because the backend code is not included due to propreitary restrictions. 
 
 ## Team
 - **Mimi Chenyao** | Tech Lead, iOS developer 
